@@ -5,7 +5,7 @@ from registration import register_student, view_registrations
 
 def main():
     while True:
-        print("\n===== COLLEGE EVENT REGISTRATION =====")
+        print("\n===== COLLEGE EVENT REGISTRATION SYSTEM =====")
         print("1. View Events")
         print("2. Register for an Event")
         print("3. View Registrations")
